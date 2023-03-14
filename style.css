@@ -45,7 +45,7 @@ a {
 }
 
 .border-white {
-  border-color: #292929;
+  border-color: #ffffff;
 }
 
 .border-rounded {
@@ -62,6 +62,10 @@ a {
 
 .bg-red {
   background-color: #a70e1a;
+}
+
+.bg-none {
+  background: none;
 }
 
 .mr-1 {
